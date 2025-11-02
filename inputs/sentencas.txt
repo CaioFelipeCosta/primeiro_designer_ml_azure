@@ -1,0 +1,4 @@
+Foi usada uma base de consumo de cerveja em São Paulo.
+As variáveis utilizadas foram temperatura e consumo de cerveja em litros.
+Há uma clara correlação positiva entre a temperatura e o consumo de cerveja.
+Adicionar uma variável para identificar finais de semana pode melhorar os resultados.
